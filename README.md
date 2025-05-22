@@ -32,7 +32,8 @@ python app_classification.py
 # Test models
 python test.py --type [reg/cls] --path [test_data_path]
 ```
-
+## DataSet
+[DOWNLOAD](https://drive.google.com/file/d/1rhd5LI_iY4w7mocRVHaJPBGxF61sylb7/view?usp=drive_link)
 
 ## Model Performance 
 
